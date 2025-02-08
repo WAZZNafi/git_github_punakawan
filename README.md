@@ -1,2 +1,3 @@
 # git_github_punakawan
-punakawan tes buat github
+hai gusyy
+ini lagi nyoba main github
